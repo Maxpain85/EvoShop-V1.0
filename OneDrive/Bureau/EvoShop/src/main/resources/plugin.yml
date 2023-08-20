@@ -1,0 +1,8 @@
+main: net.evolium.evoshop.Main
+name: EvoShop
+version: '${version}'
+description: ""
+author: MawBread
+depend:
+  - Citizens
+api-version: "1.20"
